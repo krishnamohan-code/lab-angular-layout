@@ -1,0 +1,26 @@
+.grid2
+{
+    display: grid;
+    border-bottom: 1px solid orangered;
+    padding: 1em;
+}
+.grid2 ul  {
+   display: flex;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    display: flex;
+    /* text-decoration: none; */
+}
+li a
+{
+    padding: 1em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+    background: orangered;
+}

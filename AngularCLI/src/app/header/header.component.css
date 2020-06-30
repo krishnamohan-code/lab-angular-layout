@@ -1,0 +1,13 @@
+.header
+{
+    display: grid;
+    background-color: orangered;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#grid1
+{
+    color: white;
+    margin-left: 20px;
+}
