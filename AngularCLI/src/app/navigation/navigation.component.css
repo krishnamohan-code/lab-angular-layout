@@ -1,6 +1,6 @@
 .grid2
 {
-    display: grid;
+    /* display: grid; */
     border-bottom: 1px solid orangered;
     padding: 1em;
 }
